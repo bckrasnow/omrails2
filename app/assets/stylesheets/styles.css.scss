@@ -1,5 +1,10 @@
-$baseFontFamily: Alegreya;
-@import url(http://fonts.googleapis.com/css?family=Alegreya);
+$baseFontFamily: Oxygen;
+@import url(http://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+$navbarBackground: white;
+$navbarBackgroundHighlight: white;
+$navbarLinkColorActive: blue;
+
 
 @import 'bootstrap';
 
